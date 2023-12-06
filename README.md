@@ -17,5 +17,5 @@ This project was part of Jonas Schmedtmann's Advances CSS & SASS course on Udemy
 - Basic CSS reset
 - Chrome DevTools & Debugging
 - Git Fundamentals
-- When to use flex vs grid
+- When to use flex vs grid properties 
 
