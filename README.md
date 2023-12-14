@@ -19,13 +19,16 @@ This project was part of Jonas Schmedtmann's Advances CSS & SASS course on Udemy
 - Git Fundamentals
 - When to use flex vs grid properties 
 
+## Links
+
+[Live Demo](https://frenzy017.github.io/nexter-project/)
 
 ## Screenshots
 
 > Normal View / Desktop Layout
 
 
-![Screenshot Header](/screenshots/shots.png)
+![Screenshot Header](/screenshots/header.png)
 ![Screenshot Properties](/screenshots/properties.png)
 ![Screenshot Customer](/screenshots/customer.png)
 ![Screenshot Homes](/screenshots/homes.png)
