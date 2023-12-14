@@ -24,10 +24,10 @@ This project was part of Jonas Schmedtmann's Advances CSS & SASS course on Udemy
 
 > Normal View / Desktop Layout
 
-![Screenshot Normal](screenshots/header.png)
-![Screenshot Normal](screenshots/properties.png)
-![Screenshot Normal](screenshots/customer.png)
-![Screenshot Normal](screenshots/homes.png)
-![Screenshot Normal](screenshots/shots.png)
-![Screenshot Normal](screenshots/footer.png)
+![Screenshot Header](/screenshots/header.png)
+![Screenshot Properties](/screenshots/properties.png)
+![Screenshot Customer](/screenshots/customer.png)
+![Screenshot Homes](/screenshots/homes.png)
+![Screenshot Shots](/screenshots/shots.png)
+![Screenshot Footer](/screenshots/footer.png)
 
