@@ -30,6 +30,6 @@ This project was part of Jonas Schmedtmann's Advances CSS & SASS course on Udemy
 ![Screenshot Customer](/screenshots/customer.png)
 ![Screenshot Homes](/screenshots/homes.png)
 ![Screenshot Shots](/screenshots/shots.png)
-![Screenshot Shots](/screenshots/footer.png)
+![Screenshot Footer](/screenshots/footer.png)
 
 
